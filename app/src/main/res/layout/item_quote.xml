@@ -37,9 +37,9 @@
         <ImageView
             android:id="@+id/imageViewQuote"
             android:layout_width="match_parent"
-            android:layout_height="@dimen/image_height"
+            android:layout_height="@dimen/image_height_item"
             android:layout_marginTop="@dimen/spacing_medium"
-            android:scaleType="centerCrop"
+            android:scaleType="fitXY"
             android:importantForAccessibility="no" />
 
         <TextView

@@ -11,8 +11,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/app_bar_background"
+        android:paddingHorizontal="@dimen/toolbar_padding_horizontal"
         app:titleTextColor="@color/app_bar_text"
-        app:title="@string/app_name" />
+        app:title="@string/app_name"
+        app:titleCentered="true" />
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerViewQuotes"
