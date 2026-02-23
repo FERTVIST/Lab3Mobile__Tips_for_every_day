@@ -5,6 +5,7 @@
     <dimen name="card_margin_horizontal">16dp</dimen>
     <dimen name="card_margin_vertical">8dp</dimen>
     <dimen name="card_padding">16dp</dimen>
+    <dimen name="card_stroke_width">1dp</dimen>
 
     <dimen name="image_height">200dp</dimen>
     <dimen name="image_corner_radius">12dp</dimen>
