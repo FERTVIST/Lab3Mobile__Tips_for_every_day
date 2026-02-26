@@ -1,3 +1,126 @@
 <resources>
-    <string name="app_name">Lab3Mobile__Tips_for_every_day</string>
+    <string name="app_name">30 Days of Wisdom</string>
+    <string name="day_prefix">Day</string>
+
+    <string name="day_1_title">Start with Yourself</string>
+    <string name="day_1_short">The world changes with your actions</string>
+    <string name="day_1_full">"Be the change that you wish to see in the world" — Mahatma Gandhi</string>
+
+    <string name="day_2_title">On Meaning of Life</string>
+    <string name="day_2_short">The meaning of life is to live meaningfully</string>
+    <string name="day_2_full">"Life has only the meaning we give it" — Jean-Paul Sartre</string>
+
+    <string name="day_3_title">Goals and Dreams</string>
+    <string name="day_3_short">Aim high — even failure brings success</string>
+    <string name="day_3_full">"Shoot for the moon Even if you miss, you'll land among the stars" — Cecelia Ahern</string>
+
+    <string name="day_4_title">On Time</string>
+    <string name="day_4_short">Time waits for no one, use it wisely</string>
+    <string name="day_4_full">"Time is free, but it's priceless You can't own it, but you can use it You can't keep it, but you can spend it Once you've lost it, you can never get it back" — Harvey MacKay</string>
+
+    <string name="day_5_title">Overcoming</string>
+    <string name="day_5_short">Strength is not about never falling</string>
+    <string name="day_5_full">"Our greatest glory is not in never falling, but in rising every time we fall" — Confucius</string>
+
+    <string name="day_6_title">On Happiness</string>
+    <string name="day_6_short">Happiness is not in possession, but in appreciation</string>
+    <string name="day_6_full">"Happiness is not a destination, it's a way of traveling" — Margaret Lee Runbeck</string>
+
+    <string name="day_7_title">Choosing a Path</string>
+    <string name="day_7_short">Follow your own road, even if it\'s hard</string>
+    <string name="day_7_full">"Find what you love and let it kill you" — Charles Bukowski</string>
+
+    <string name="day_8_title">On Action</string>
+    <string name="day_8_short">Dreams without actions remain dreams</string>
+    <string name="day_8_full">"The only way to do great work is to love what you do" — Steve Jobs</string>
+
+    <string name="day_9_title">On Wisdom</string>
+    <string name="day_9_short">Knowing much is not key, knowing what matters is</string>
+    <string name="day_9_full">"I know only that I know nothing, yet others do not know even this" — Socrates</string>
+
+    <string name="day_10_title">On Goodness</string>
+    <string name="day_10_short">Do good, even if no one is watching</string>
+    <string name="day_10_full">"Do not be overcome by evil, but overcome evil with good" — Apostle Paul</string>
+
+    <string name="day_11_title">On Courage</string>
+    <string name="day_11_short">Fear will pass, regret will remain</string>
+    <string name="day_11_full">"Courage is not the absence of fear, but rather the assessment that something else is more important than fear" — Meg Cabot</string>
+
+    <string name="day_12_title">On Simplicity</string>
+    <string name="day_12_short">Happiness is often hidden in simple things</string>
+    <string name="day_12_full">"Life is really simple, but we insist on making it complicated" — Confucius</string>
+
+    <string name="day_13_title">On Future</string>
+    <string name="day_13_short">Don\'t wait for the future — create it yourself</string>
+    <string name="day_13_full">"The best way to predict the future is to invent it" — Alan Kay</string>
+
+    <string name="day_14_title">On Patience</string>
+    <string name="day_14_short">Everything great takes time</string>
+    <string name="day_14_full">"Everything comes to him who waits" — Leo Tolstoy</string>
+
+    <string name="day_15_title">On Thoughts</string>
+    <string name="day_15_short">Your thoughts shape your reality</string>
+    <string name="day_15_full">"We are what we repeatedly do Excellence, then, is not an act, but a habit" — Aristotle</string>
+
+    <string name="day_16_title">On Journeys</string>
+    <string name="day_16_short">Even the longest journey begins with a single step</string>
+    <string name="day_16_full">"A journey of a thousand miles begins with a single step" — Lao Tzu</string>
+
+    <string name="day_17_title">On Work</string>
+    <string name="day_17_short">Love what you do</string>
+    <string name="day_17_full">"Choose a job you love, and you will never have to work a day in your life" — Confucius</string>
+
+    <string name="day_18_title">On Forgiveness</string>
+    <string name="day_18_short">Letting go of grudges sets us free</string>
+    <string name="day_18_full">"Forgiveness is giving up the hope that the past could have been any different" — Lily Tomlin</string>
+
+    <string name="day_19_title">On Knowledge</string>
+    <string name="day_19_short">Knowledge not applied is dead</string>
+    <string name="day_19_full">"Knowing is not enough; we must apply Willing is not enough; we must do" — Johann Wolfgang von Goethe</string>
+
+    <string name="day_20_title">On Self-Belief</string>
+    <string name="day_20_short">No one can believe in you more than yourself</string>
+    <string name="day_20_full">"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy" — Norman Vincent Peale</string>
+
+    <string name="day_21_title">On Reading</string>
+    <string name="day_21_short">Reading good books is conversing with the wise</string>
+    <string name="day_21_full">"Reading good books is like having a conversation with the finest minds of past centuries" — René Descartes</string>
+
+    <string name="day_22_title">On Greatness</string>
+    <string name="day_22_short">Greatness begins small</string>
+    <string name="day_22_full">"The tallest tree grows from a tiny seed" — Paulo Coelho</string>
+
+    <string name="day_23_title">On Lies</string>
+    <string name="day_23_short">Lies destroy trust faster than anything</string>
+    <string name="day_23_full">"A lie can travel half way around the world while the truth is putting on its shoes" — Winston Churchill</string>
+
+    <string name="day_24_title">On Nature</string>
+    <string name="day_24_short">Nature holds the greatest wisdom</string>
+    <string name="day_24_full">"Nature abhors a vacuum: where people don't know the truth, they fill the gaps with guesswork" — George Bernard Shaw</string>
+
+    <string name="day_25_title">On Essence</string>
+    <string name="day_25_short">Look at the root, don\'t settle for the surface</string>
+    <string name="day_25_full">"Everything flows, everything changes, and you cannot step into the same river twice" — Heraclitus of Ephesus</string>
+
+    <string name="day_26_title">On Risk</string>
+    <string name="day_26_short">Nothing ventured, nothing gained</string>
+    <string name="day_26_full">"You cannot move forward without risk The biggest risk is not taking any risk In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks" — Mark Zuckerberg</string>
+
+    <string name="day_27_title">On Love</string>
+    <string name="day_27_short">Love is the only force that can change the world</string>
+    <string name="day_27_full">"Love is the only rational activity of man" — Leo Tolstoy</string>
+
+    <string name="day_28_title">On Solitude</string>
+    <string name="day_28_short">Great thoughts are born in silence</string>
+    <string name="day_28_full">"Solitude is as necessary to the mind as fasting is to the body, and just as fatal if it lasts too long" — Luc de Clapiers, Marquis de Vauvenargues</string>
+
+    <string name="day_29_title">On Change</string>
+    <string name="day_29_short">Action conquers fear of change</string>
+    <string name="day_29_full">"Fear disappears when you start doing what you're afraid of doing, instead of thinking about it Be interested in what's happening inside you as much as what's around you" — Eckhart Tolle</string>
+
+    <string name="day_30_title">Summary</string>
+    <string name="day_30_short">Your main project is yourself</string>
+    <string name="day_30_full">"The one who walks the road, masters it" — Lucius Annaeus Seneca</string>
+
+    <string name="back_button">Back</string>
 </resources>

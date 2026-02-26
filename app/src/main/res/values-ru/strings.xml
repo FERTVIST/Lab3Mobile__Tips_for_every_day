@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мудрость на каждый день</string>
+    <string name="day_prefix">День</string>
+
+    <string name="day_1_title">Начни с себя</string>
+    <string name="day_1_short">Мир меняется с твоих поступков</string>
+    <string name="day_1_full">«Будь тем изменением, которое ты хочешь увидеть в мире» — Махатма Ганди</string>
+
+    <string name="day_2_title">О смысле жизни</string>
+    <string name="day_2_short">Смысл жизни в том, чтобы жить осмысленно</string>
+    <string name="day_2_full">«Жизнь имеет только тот смысл, который мы ей придаем» — Жан-Поль Сартр</string>
+
+    <string name="day_3_title">Цель и мечты</string>
+    <string name="day_3_short">Стремись к великому — даже неудача принесет успех</string>
+    <string name="day_3_full">«Цельтесь на Луну Даже если промахнетесь, окажетесь среди звезд» — Сесилия Ахерн</string>
+
+    <string name="day_4_title">О времени</string>
+    <string name="day_4_short">Время не ждет, используйте его мудро</string>
+    <string name="day_4_full">«Время бесплатно, но оно бесценно Вы не можете владеть им, но можете использовать его Вы не можете оставить его, но можете потратить Как только вы потеряли его, вы никогда не сможете вернуть его обратно» — Харви Маккей</string>
+
+    <string name="day_5_title">Преодоление</string>
+    <string name="day_5_short">Сила не в том, чтобы никогда не падать</string>
+    <string name="day_5_full">«Наша величайшая слава не в том, что мы никогда не падаем, а в том, что мы поднимаемся каждый раз, когда падаем» — Конфуций</string>
+
+    <string name="day_6_title">О счастье</string>
+    <string name="day_6_short">Счастье не в обладании, а в умении ценить</string>
+    <string name="day_6_full">«Счастье — это не пункт назначения, а способ путешествия» — Маргарет Ли Ранбек</string>
+
+    <string name="day_7_title">Выбор пути</string>
+    <string name="day_7_short">Иди своей дорогой, даже если она трудна</string>
+    <string name="day_7_full">«Найди то, что любишь, и позволь этому убить тебя» — Чарльз Буковски</string>
+
+    <string name="day_8_title">О действии</string>
+    <string name="day_8_short">Мечты без действий остаются мечтами</string>
+    <string name="day_8_full">«Единственный способ делать великую работу — любить то, что ты делаешь» — Стив Джобс</string>
+
+    <string name="day_9_title">О мудрости</string>
+    <string name="day_9_short">Знать много — не главное, главное — знать важное</string>
+    <string name="day_9_full">«Я знаю только то, что ничего не знаю, но другие не знают и этого» — Сократ</string>
+
+    <string name="day_10_title">О добре</string>
+    <string name="day_10_short">Творите добро, даже если никто не видит</string>
+    <string name="day_10_full">«Не будь побежден злом, но побеждай зло добром» — Апостол Павел</string>
+
+    <string name="day_11_title">О смелости</string>
+    <string name="day_11_short">Страх пройдет, а сожаление останется</string>
+    <string name="day_11_full">«Смелость — это не отсутствие страха, а понимание того, что есть что-то более важное, чем страх» — Мэг Кэбот</string>
+
+    <string name="day_12_title">О простоте</string>
+    <string name="day_12_short">Счастье часто скрыто в простых вещах</string>
+    <string name="day_12_full">«На самом деле, жизнь проста, но мы настойчиво её усложняем» — Конфуций</string>
+
+    <string name="day_13_title">О будущем</string>
+    <string name="day_13_short">Не жди будущего — твори его сам</string>
+    <string name="day_13_full">«Лучший способ предсказать будущее — изобрести его» — Алан Кей</string>
+
+    <string name="day_14_title">О терпении</string>
+    <string name="day_14_short">Все великое требует времени</string>
+    <string name="day_14_full">«Всё приходит к тому, кто умеет ждать» — Лев Толстой</string>
+
+    <string name="day_15_title">О мыслях</string>
+    <string name="day_15_short">Ваши мысли формируют вашу реальность</string>
+    <string name="day_15_full">«Мы — это то, что мы постоянно делаем Совершенство — это не действие, а привычка» — Аристотель</string>
+
+    <string name="day_16_title">О путешествиях</string>
+    <string name="day_16_short">Даже самый долгий путь начинается с первого шага</string>
+    <string name="day_16_full">«Путешествие тысячу миль начинается с одного шага» — Лао-цзы</string>
+
+    <string name="day_17_title">О труде</string>
+    <string name="day_17_short">Люби то, чем занимаешься</string>
+    <string name="day_17_full">«Выбирай работу по душе, и тебе не придется работать ни одного дня в своей жизни» — Конфуций</string>
+
+    <string name="day_18_title">О прощении</string>
+    <string name="day_18_short">Отпуская обиды, мы освобождаем себя</string>
+    <string name="day_18_full">«Прощение — это отказ от надежды на лучшее прошлое» — Лили Томлин</string>
+
+    <string name="day_19_title">О знании</string>
+    <string name="day_19_short">Знания, не примененные на деле, мертвы</string>
+    <string name="day_19_full">«Недостаточно только получить знания; надо найти им приложение Недостаточно только желать; надо делать» — Иоганн Вольфганг фон Гёте</string>
+
+    <string name="day_20_title">О вере в себя</string>
+    <string name="day_20_short">Никто не сможет поверить в тебя сильнее, чем ты сам</string>
+    <string name="day_20_full">«Верьте в себя! Верьте в свои способности! Без скромной, но обоснованной уверенности в своих силах вы не сможете стать успешным или счастливым» — Норман Винсент Пил</string>
+
+    <string name="day_21_title">О чтении</string>
+    <string name="day_21_short">Читая хорошие книги, мы говорим с мудрецами</string>
+    <string name="day_21_full">«Чтение хороших книг — это разговор с самыми лучшими людьми прошедших времён, и притом такой разговор, когда они сообщают нам только лучшие свои мысли» — Рене Декарта</string>
+
+    <string name="day_22_title">О величии</string>
+    <string name="day_22_short">Величие начинается с малого</string>
+    <string name="day_22_full">«Самое высокое дерево вырастает из крохотного семечка» — Пауло Коэльо</string>
+
+    <string name="day_23_title">О лжи</string>
+    <string name="day_23_short">Ложь разрушает доверие быстрее всего</string>
+    <string name="day_23_full">«Ложь успевает обойти полмира, пока правда надевает штаны» — Уинстон Черчилль</string>
+
+    <string name="day_24_title">О природе</string>
+    <string name="day_24_short">В природе скрыта величайшая мудрость</string>
+    <string name="day_24_full">«Природа не терпит пустоты: там, где люди не знают правды, они заполняют пробелы домыслом» — Бернарда Шоу</string>
+
+    <string name="day_25_title">О сути вещей</string>
+    <string name="day_25_short">Смотри в корень, не довольствуйся поверхностным</string>
+    <string name="day_25_full">«Все течет, все меняется, и нельзя войти в одну реку дважды» — Гераклит Эфесский</string>
+
+    <string name="day_26_title">О риске</string>
+    <string name="day_26_short">Кто не рискует, тот не пьет шампанское</string>
+    <string name="day_26_full">«Без риска нельзя идти вперед Самый большой риск — это не рисковать вообще В мире, который быстро меняется, единственная стратегия, гарантирующая провал, — это быть слишком осторожным» — Марк Цукерберг</string>
+
+    <string name="day_27_title">О любви</string>
+    <string name="day_27_short">Любовь — единственная сила, способная изменить мир</string>
+    <string name="day_27_full">«Любовь есть единственная разумная деятельность человека» — Лев Толстой</string>
+
+    <string name="day_28_title">Об одиночестве</string>
+    <string name="day_28_short">В тишине одиночества рождаются великие мысли</string>
+    <string name="day_28_full">«Одиночество так же необходимо разуму, как воздержание в еде — телу, и точно так же гибельно, если оно слишком долго длится» — Люк де Клапье Вовенарг</string>
+
+    <string name="day_29_title">О переменах</string>
+    <string name="day_29_short">Действие побеждает страх перемен</string>
+    <string name="day_29_full">«Страх исчезает, когда вы начинаете делать то, что боитесь делать, вместо того чтобы думать об этом Интересуйтесь тем, что происходит внутри вас, не меньше, чем тем, что вас окружает» — Экхарт Толле</string>
+
+    <string name="day_30_title">Итог</string>
+    <string name="day_30_short">Ваш главный проект — это вы сами</string>
+    <string name="day_30_full">«Дорогу осилит идущий» — Луций Анней Сенека</string>
+
+    <string name="back_button">Назад</string>
+</resources>
